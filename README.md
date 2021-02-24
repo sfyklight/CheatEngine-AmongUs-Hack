@@ -24,3 +24,9 @@ Kullanımı:
 -Voiting Time
 -Imposter Vision
 -Crewmate Vision**
+
+
+
+*Not:*
+-------
+***Geliştiriciler adresleri istediği gibi alıp istediği gibi kullana bilir ***
