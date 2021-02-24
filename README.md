@@ -8,3 +8,19 @@ Kullanımı:
 
 
 *Not:Eğer yazılar anlamzıszsa google türkçe çeviriyi kapayın veya İNGİLİZCE olarak ayarlayın*
+
+
+
+
+
+
+*İçerisindeki hileler:*
+---------------
+
+**-Speed
+-Color
+-Kill Down
+-Emergny CoolDown
+-Voiting Time
+-Imposter Vision
+-Crewmate Vision**
