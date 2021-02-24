@@ -29,4 +29,5 @@ Kullanımı:
 
 *Not:*
 -------
-**Geliştiriciler adresleri istediği gibi alıp istediği gibi kullana bilir **
+*Geliştiriciler adresleri istediği gibi alıp istediği gibi kullana bilir *
+----------------------------------------------------------------------------
